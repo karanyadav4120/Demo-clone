@@ -470,7 +470,7 @@ display: block
     color: #1e3469;
     text-decoration: none;
     white-space: nowrap;
-    font-weight: 20%;
+    font-weight: 90%;
 }
 @media screen and (max-width:1620px){
     .navbar_b2 ul li a{
