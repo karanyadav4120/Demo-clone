@@ -4564,7 +4564,7 @@ justify-content: center;
 .carousel-box {
     /* border: 2px dotted black; */
     height: 274px;
-    background-image: url(docs/image/carousel.f356061b.png);
+    background-image: url(https://dosa.finance/img/carousel.f356061b.png);
     animation: Carousel-bgflow 30s infinite linear;
 }
 @keyframes Carousel-bgflow {
@@ -4579,7 +4579,7 @@ justify-content: center;
     .carousel-box {
         height: 205.5px;
         background-size: 2879.25px 205.5px;
-        background-image: url(docs/image/carousel.f356061b.png);
+        background-image: url(https://dosa.finance/img/carousel.f356061b.png);
     }
 }
 .project-section {
