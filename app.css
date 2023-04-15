@@ -4690,3 +4690,35 @@ justify-content: center;
         align-items: center;
     }
 }
+.widget-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 80px 0 180px;
+    background: #212f53;
+}
+
+.widget-1 {
+    width: 500px;
+    height: 460px;
+}
+
+.widget-section iframe:last-child {
+    width: 400px;
+    height: 648px;
+    border-radius: 10px;
+}
+@media (max-width: 1041px) {
+    .widget-section {
+        flex-direction: column;
+    }
+    .widget-section iframe:last-child {
+        margin-top: 50px;
+    }
+}
+
+@media (max-width:767px){
+    .widget-section {
+        padding: 30px 30px 90px;
+    }
+}
