@@ -955,7 +955,7 @@ display: block
     height: 10px;
 }} */
 
-@media(min-width:767px) and (max-width:1400px){
+@media(min-width:767px) and (max-width:1600px){
     .mainpage_d1 .hello2{
         display: none;
     }
