@@ -5721,10 +5721,29 @@ justify-content: center;
     }
 }
 @media(max-width:500px){
-.widget-section{
-    width:75%;
-    height:75%;
+.widget-section iframe:last-child{
+    width:70%;
+    height:70%;
     margin:0;
 }
+.first_widget{
+    margin:0;
+    height: 60%;
+    width:60%;
 }
+}
+.project-content-right img{
+    display: flex;
+    width:80%;
+    height: 80%;
+}
+@media (max-width: 360px){
+.why_dosa_nft .why_dosa_nft_b2 img {
+    width: 280px;
+}
+}
+@media (max-width: 360px){
+.chainlink_b2 img {
+    width: 300px;
+}}
 
