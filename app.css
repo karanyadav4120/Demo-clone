@@ -51,7 +51,7 @@ p {
 
 .navbar{
     padding: 32px 30px;
-    position: absolute;
+    position: static;
     top: 0;
     left: 0;
     right: 0;
